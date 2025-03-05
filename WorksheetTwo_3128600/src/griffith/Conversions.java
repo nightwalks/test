@@ -17,7 +17,7 @@ public class Conversions {
         return "";
     }
 
-    // change uppercase to lowercase and vice versa
+    // change uppercase to lowercase and vice versa aa 
     public String switchCase(){
         return "";
     }
